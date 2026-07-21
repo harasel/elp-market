@@ -165,7 +165,7 @@ ul { list-style: none; padding: 0; }
 .btn-outline {
   border-color: rgb(255 255 255 / 85%); color: #ffffff; background: transparent;
 }
-.btn-outline:hover { background: rgb(255 255 255 / 85%); color: var(--white); }
+.btn-outline:hover { background: rgb(255 255 255 / 85%); color: #000000; }
 .btn-outline--light { border-color: rgba(255,255,255,.6); color: var(--white); }
 .btn-outline--light:hover { background: var(--white); color: var(--navy-900); }
 .btn-ghost { color: var(--navy-900); }
